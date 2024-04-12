@@ -10,7 +10,7 @@ namespace DMA_FinalProject.DAL.DAO
     {
         public static string ConnectionString
         {
-            get { return "Data Source = hildur.ucn.dk; User ID = DMA-CSD-S212_10407505; Password = Password1!; Encrypt = False; TrustServerCertificate = True"; }
+            get { return "Data Source = someDB; User ID = 123; Password = Password1!; Encrypt = False; TrustServerCertificate = True"; }
         }
     }
 }
